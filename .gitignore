@@ -30,9 +30,11 @@ nbproject
 .idea
 
 # Folders to ignore
+bin
 node_modules
 package-lock.json
 vendor
+.bundle
 .sass-cache
 .jekyll-metadata
 .jekyll-cache
